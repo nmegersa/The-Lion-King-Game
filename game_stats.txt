@@ -1,0 +1,14 @@
+Bo stats: 
+Age: 12
+Strength: 1500
+Stamina: 1000
+Wisdom: 3600
+Pride Points: 6261
+
+
+Rama stats: 
+Age: 18
+Strength: 1200
+Stamina: 400
+Wisdom: 1700
+Pride Points: 30733
